@@ -1,0 +1,6 @@
+id,firstName,lastName,email,department,position,salary,hireDate,phone,address
+2001,Alex,Rodriguez,alex.rodriguez@company.com,Engineering,Lead Developer,95000,2020-01-15,+1-555-2001,1001 Tech Ave
+2002,Maria,Gonzalez,maria.gonzalez@company.com,Marketing,Digital Marketing Manager,72000,2021-03-20,+1-555-2002,2002 Creative Blvd
+2003,James,Thompson,james.thompson@company.com,Finance,Senior Financial Analyst,78000,2019-11-08,+1-555-2003,3003 Business Park Dr
+2004,Lisa,Chen,lisa.chen@company.com,HR,Recruitment Specialist,62000,2022-06-12,+1-555-2004,4004 Corporate Way
+2005,Michael,OConnor,michael.oconnor@company.com,Engineering,DevOps Specialist,82000,2021-09-03,+1-555-2005,5005 Innovation St
